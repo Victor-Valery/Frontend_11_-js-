@@ -73,8 +73,10 @@
 
 // ****************************
 
-var a = '';
+// var a = '';
 
-console.log(a ?? 2); // bos string vs text output text
+// console.log(a ?? 2); // bos string vs text output bos string
 
 // ****************************
+
+
